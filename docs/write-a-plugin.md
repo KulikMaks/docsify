@@ -1,6 +1,6 @@
 # Write a plugin
 
-A docsify plugin is a function with the ability to execute custom JavaScript code at various stages of Docsify's lifecycle.
+A docsify plugin is a function with the ability to execute custom JavaScript code at various stages of Docsify's lifecycle!
 
 ## Setup
 
